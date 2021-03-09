@@ -1,0 +1,6 @@
+﻿  Date.cpp
+  Source.cpp
+E:\pr\1.5\1.5\Source.cpp(18,7): warning C4101: 'a3': unreferenced local variable
+  Triad.cpp
+  Generating Code...
+  1.5.vcxproj -> E:\pr\1.5\Debug\1.5.exe
